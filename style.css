@@ -3,7 +3,7 @@ Theme Name: Thememe
 Author: Saeed Shahab
 Github Theme URI: https://github.com/saeedshahab/thememe
 Template: twentyeleven
-Version: 1.1
+Version: 1.2
 Description: A theme to demo a plugin.
 */
 
@@ -11,3 +11,5 @@ Description: A theme to demo a plugin.
 
 /* grey */
 html, body { background:#383434; }
+
+/* Updated to 1.2 */

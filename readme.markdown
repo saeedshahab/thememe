@@ -1,1 +1,1 @@
-A Wordpress theme to demo the [Theme Updater](https://github.com/UCF/Theme-Updater) plugin.
+A theme test by [Saeed Shahab](http://saeedshahab.com/).
