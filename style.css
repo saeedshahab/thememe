@@ -1,0 +1,13 @@
+/*   
+Theme Name: Thememe
+Author: Saeed Shahab
+Github Theme URI: https://github.com/saeedshahab/thememe
+Template: twentyeleven
+Version: 1.0
+Description: A theme to demo a plugin.
+*/
+
+@import url('../twentyten/style.css');
+
+/* grey */
+html, body { background:#383434; }

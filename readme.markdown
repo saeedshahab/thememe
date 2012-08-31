@@ -1,0 +1,1 @@
+A Wordpress theme to demo the [Theme Updater](https://github.com/UCF/Theme-Updater) plugin.
